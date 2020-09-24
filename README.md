@@ -4,6 +4,10 @@ processing pong game
 # theme
 hockey table game
 
+# assets
+1. custom UI
+2. custom art
+
 # functionality
 1. loading screen
 2. independed input
